@@ -1,5 +1,5 @@
 # Acronym Generator
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]
 ## Features
 A python script that generates an acronym word from a given sentence.
 
@@ -15,8 +15,8 @@ A python script that generates an acronym word from a given sentence.
  
  **INPUT:** Please enter a sentence: united nations
  
- **OUTPUT:** Acronym of united states of america is UN
+ **OUTPUT:** Acronym of united nations of america is UN
  
  **INPUT:** Please enter a sentence: central bureau of investigation
  
- **OUTPUT:** Acronym of united states of america is CBI
+ **OUTPUT:** Acronym of central bureau of investigation is CBI
