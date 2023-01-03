@@ -3,4 +3,4 @@ wordList=(inputSentence.replace('of','')).split()
 acronym=''
 for word in wordList:
     acronym=acronym+word[0].upper()
-print('Acronym of {} is {}'.format(inputSentence,acronym))
+print('Acronym for {} is {}'.format(inputSentence,acronym))
